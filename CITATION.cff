@@ -1,0 +1,22 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: 3D-Microchannel-TFM
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Max
+    family-names: Hockenberry
+    email: maxhock@live.unc.edu
+    orcid: 'https://orcid.org/0000-0002-4558-0286'
+    affiliation: UNC-CH
+  - given-names: Wesley
+    family-names: Legant
+    affiliation: UNC-CH
+    orcid: 'https://orcid.org/0000-0003-1827-5371'
+    email: legantw@email.unc.edu
+repository-code: 'https://github.com/legantlab/3D-Microchannel-TFM'
+license: MIT
